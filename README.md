@@ -6,3 +6,5 @@ gh auth login
 git clone https://github.com/Chanakya9710/insurance-operations-ai.git
 cd insurance-operations-ai
 git status
+On branch main
+nothing to commit, working tree clean
